@@ -9,7 +9,7 @@ Motivated entry-level professional with a BSc in Computer Science, currently enh
 * 🌍  I'm based in Newcastle, KZN
 * 🖥️  See my portfolio at [MyPortfolio](http://ngwanelegacie.github.io)
 * ✉️  You can contact me at [vusizwe@rocketmail.com](mailto:vusizwe@rocketmail.com)
-* 🧠  I'm learning Python
+* 🧠  I'm learning Python and Machine Learning for Data Science
 * 🤝  I'm open to collaborating on Projects
 
 <a href="https://www.github.com/ngwanelegacie" target="_blank" rel="noreferrer"><img
