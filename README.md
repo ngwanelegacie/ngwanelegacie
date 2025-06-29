@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-I'm a Data Science and AI enthusiast based in Newcastle, South Africa 🇿🇦. With a background in Mathematics and Computer Science, I’m transitioning from education into technology, blending analytical thinking, coding, and real-world problem-solving.
+I'm a Data Science and AI enthusiast based in Newcastle, South Africa. With a background in Mathematics and Computer Science, I’m transitioning from education into technology, blending analytical thinking, coding, and real-world problem-solving.
 
 Currently enrolled in the **ALX Data Science course**, I’m actively working on data analytics projects and building my skills in Python, machine learning, and cloud technologies.
 
